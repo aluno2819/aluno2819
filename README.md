@@ -1,16 +1,16 @@
-## Hi there 👋
+Boas vindas ao meu perfil 💙💙
+Meu nome é moises ferreira
 
-<!--
-**aluno2819/aluno2819** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estou estudando na Alura
 
-Here are some ideas to get you started:
+Estou me desenvolvendo na linguagem JavaScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
+
+Você pode entrar em contato comigo 📫
+
+00001105540492sp@al.educacao.sp.gov.br
+
+![![image](https://github.com/aluno2819/aluno2819/assets/172551104/d6ba3fc0-059f-46f8-8921-481a9c7a4532)
+]
+
